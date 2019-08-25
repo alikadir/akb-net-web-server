@@ -1,0 +1,10 @@
+D:\EMSEY\AKB.NET_WebServer\AKB.NET_WebServer\bin\Debug\AKB.NET_WebServer.exe
+D:\EMSEY\AKB.NET_WebServer\AKB.NET_WebServer\bin\Debug\AKB.NET_WebServer.pdb
+D:\EMSEY\AKB.NET_WebServer\AKB.NET_WebServer\obj\Debug\ResolveAssemblyReference.cache
+D:\EMSEY\AKB.NET_WebServer\AKB.NET_WebServer\obj\Debug\AKB.NET_WebServer.exe
+D:\EMSEY\AKB.NET_WebServer\AKB.NET_WebServer\obj\Debug\AKB.NET_WebServer.pdb
+D:\PROJELERIM\PROJELER\AKB.NET_WebServer\AKB.NET_WebServer\obj\Debug\AKB.NET_WebServer.exe
+D:\PROJELERIM\PROJELER\AKB.NET_WebServer\AKB.NET_WebServer\obj\Debug\AKB.NET_WebServer.pdb
+D:\PROJELERIM\PROJELER\AKB.NET_WebServer\AKB.NET_WebServer\bin\Debug\AKB.NET_WebServer.exe
+D:\PROJELERIM\PROJELER\AKB.NET_WebServer\AKB.NET_WebServer\bin\Debug\AKB.NET_WebServer.pdb
+D:\PROJELERIM\PROJELER\AKB.NET_WebServer\AKB.NET_WebServer\obj\Debug\ResolveAssemblyReference.cache

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="AKB.NET_WebServer">
+</Property><Property Name="Solution File" Value="D:\EMSEY\AKB.NET_WebServer\AKB.NET_WebServer.sln">
+</Property><Property Name="User Options File" Value="D:\EMSEY\AKB.NET_WebServer\AKB.NET_WebServer.suo">
+</Property><Property Name="Date" Value="18 Mayıs 2010 Salı">
+</Property><Property Name="Time" Value="23:15">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="AKB.NET_WebServer.sln" Description="File successfully backed up as D:\EMSEY\AKB.NET_WebServer\Backup\AKB.NET_WebServer.sln">
+</Event><Event ErrorLevel="0" Project="" Source="AKB.NET_WebServer.suo" Description="File successfully backed up as D:\EMSEY\AKB.NET_WebServer\Backup\AKB.NET_WebServer.suo">
+</Event><Event ErrorLevel="0" Project="AKB.NET_WebServer" Source="AKB.NET_WebServer\AKB.NET_WebServer.csproj" Description="Project file successfully backed up as D:\EMSEY\AKB.NET_WebServer\Backup\AKB.NET_WebServer\AKB.NET_WebServer.csproj">
+</Event><Event ErrorLevel="0" Project="AKB.NET_WebServer" Source="AKB.NET_WebServer\Program.cs" Description="File successfully backed up as D:\EMSEY\AKB.NET_WebServer\Backup\AKB.NET_WebServer\Program.cs">
+</Event><Event ErrorLevel="0" Project="AKB.NET_WebServer" Source="AKB.NET_WebServer\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\EMSEY\AKB.NET_WebServer\Backup\AKB.NET_WebServer\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="AKB.NET_WebServer" Source="AKB.NET_WebServer\AKB.NET_WebServer.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="AKB.NET_WebServer" Source="AKB.NET_WebServer\AKB.NET_WebServer.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="AKB.NET_Kurulum.vdproj" Source="AKB.NET_Kurulum\AKB.NET_Kurulum.vdproj" Description="Project file successfully backed up as D:\EMSEY\AKB.NET_WebServer\Backup\AKB.NET_Kurulum\AKB.NET_Kurulum.vdproj">
+</Event><Event ErrorLevel="0" Project="" Source="AKB.NET_WebServer.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="AKB.NET_WebServer.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="AKB.NET_WebServer" Source="AKB.NET_WebServer\AKB.NET_WebServer.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
